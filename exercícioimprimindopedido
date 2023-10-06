@@ -1,0 +1,30 @@
+Algoritmo "Imprimindo o Últimoo Pedido"
+
+Var
+
+
+
+Inicio
+      escreval("### DADOS CADASTRAIS ###")
+      escreval("- - - - - - - - - - -")
+      escreval("Nome: Cristiano Andrade")
+      escreval("Site: www.cristianoandrade.com")
+      escreval("")
+      escreval("### ÚLTIMO PEDIDO ###")
+      escreval("- - - - - - - - - - -")
+      escreval("ID pedido: 1010")
+      escreval("Quantidade: 10")
+      escreval("Valor Unitário: 8,00")
+      escreval("Valor Total: 8,00")
+      escreval("Item: xícara de café")
+      escreval("")
+      escreval("##########")
+      escreval("#############")
+      escreval("##########  #")
+      escreval("############")
+      escreval("##########")
+      escreval(" ######## ")
+      
+
+
+Fimalgoritmo
