@@ -1,0 +1,16 @@
+Algoritmo "expressoesaritmeticassomaesubtracao"
+
+Var
+
+
+
+Inicio
+      escreva("2+2:")
+      escreval(2 + 2)
+      escreva("5 - 7: ")
+      escreval(5 - 7)
+      escreva("7 - 4,78 + 8 - 150,1 + 287:")
+      escreval(7 - 4,78 + 8 - 150,1 + 287 )
+
+
+Fimalgoritmo
